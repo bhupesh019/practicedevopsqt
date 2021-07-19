@@ -1,4 +1,6 @@
 """
 This file should host the applications
 """
-import os
+
+def is_app():
+    pass
